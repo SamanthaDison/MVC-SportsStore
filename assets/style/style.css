@@ -1,0 +1,34 @@
+/* BASIC STYLES HERE */
+:root{
+    --secondary: #C5D87C;
+--triple: #803387;
+--fourth: #98BA50;
+}
+
+
+.img-row{
+    background-color: var(--secondary);
+}
+ .quote{
+     background-color: var(--triple);
+     height: 40vh;
+ }
+
+ .shop-banner{
+     background-color: var(--fourth);
+     height: 20vh;
+ }
+
+ .merch-img{
+     height: 200px;
+     width: 200px;
+ }
+
+
+
+
+.banner-img{
+height: 250px;
+width: 450px;
+}
+
