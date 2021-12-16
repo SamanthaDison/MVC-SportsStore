@@ -19,12 +19,19 @@
      height: 20vh;
  }
 
+.merch-row{
+    margin-left: 2em;
+}
+
  .merch-img{
      height: 200px;
      width: 200px;
+     justify-content: center;
  }
 
-
+.checkout{
+    padding-right: 2em;
+}
 
 
 .banner-img{
